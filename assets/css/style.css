@@ -13,7 +13,7 @@ body {
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #7c2a75;
     color: #ffffff;
 }
 
@@ -90,7 +90,7 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #ce4fc3;
 }
 
 .benefit-lead {
@@ -109,6 +109,7 @@ p {
 }
 
 h3 {
+    
     margin-bottom: 10px;
     text-align: center;
 } 
@@ -125,7 +126,7 @@ h3 {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color:#00bb9c;
     color: #ffffff;
 }
 
@@ -134,7 +135,7 @@ h3 {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #00bb9c;
     color: #ffffff;
 }
 
@@ -143,13 +144,14 @@ h3 {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #00bb9c;
     color: #ffffff;
 }
 
 h2 {
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
+    
 }
 
 footer {
