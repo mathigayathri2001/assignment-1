@@ -1,4 +1,4 @@
-/* Style details of Horiseon Web Site*/
+/*Style details of Horiseon Site */
 
 * {
     box-sizing: border-box;
@@ -6,26 +6,30 @@
     margin: 0;
 }
 
+/* Background color of body of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/* header properties and values */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #7c2a75;
+    background-color:#38042b;
     color: #ffffff;
 }
 
+/* header 1 properties and values */ 
 h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Span element style in header */
  .seo {
     color: #9fa797;
 }
 
+/* header navigation properties and values */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -52,6 +56,7 @@ p {
     font-size: 16px;
 }
 
+/* main image properties and values */
 .hero {
     height: 800px;
     width: 100%;
@@ -61,6 +66,8 @@ p {
     background-position: center;
 }
 
+/* Section float left and margin
+   Consolidated image max height */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,12 +75,15 @@ p {
     
 }
 
+/* Section float right and margin
+   Consolidated image max height */
 .float-right {
     float: right;
     margin-left: 25px;
     max-height: 200px;
 }
 
+/* content properties and value in the section */
 .content {
     width: 75%;
     display: inline-block;
@@ -81,8 +91,9 @@ p {
     
 }
 
+/* benifits properties and value in the aside */
 .benefits {
-    
+    content:"";
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -126,7 +137,7 @@ h3 {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color:#00bb9c;
+    background-color: #7c2a75;
     color: #ffffff;
 }
 
@@ -135,7 +146,7 @@ h3 {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #00bb9c;
+    background-color: #7c2a75;
     color: #ffffff;
 }
 
@@ -144,7 +155,7 @@ h3 {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #00bb9c;
+    background-color: #7c2a75;
     color: #ffffff;
 }
 
@@ -154,6 +165,7 @@ h2 {
     
 }
 
+/* footer properties and values */
 footer {
     padding: 30px;
     clear: both;
@@ -163,5 +175,8 @@ footer {
 
 h4 { 
     font-size: 20px;
+
 }
+
+
 
